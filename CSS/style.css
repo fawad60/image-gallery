@@ -1,0 +1,16 @@
+img {
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+
+}
+
+p {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 30px;
+    margin-left: 1.66%;
+    border-bottom: 3px solid rgb(151, 29, 29);
+    padding: 10px;
+    width: 30%;
+}
+
